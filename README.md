@@ -1,5 +1,25 @@
+# Towards no js
+
 
 DEMO : https://react18-next13-1hfkrskpy-wishzx.vercel.app/signin
+
+
+steps for production :
+
+https://beta.nextjs.org/docs/data-fetching/revalidating
+https://beta.nextjs.org/docs/data-fetching/caching
+https://beta.nextjs.org/docs/data-fetching/fundamentals#parallel-and-sequential-data-fetching
+https://beta.nextjs.org/docs/data-fetching/streaming-and-suspense
+
+
+https://react.dev/blog/2022/03/29/react-v18
+
+understanding more edge runtime and middleware :
+https://workers.cloudflare.com/
+https://fly.io/docs/
+
+@scotups
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
